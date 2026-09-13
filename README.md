@@ -42,6 +42,28 @@ as the final model for deployment.
 
 ---
 
+## 📈 Model Performance
+
+Four Machine Learning classification models were trained and evaluated
+on the diabetes dataset.
+
+| Model | Accuracy |
+|---|---:|
+| Logistic Regression | 67.53% |
+| Decision Tree | 72.08% |
+| Random Forest | 70.78% |
+| KNN | 72.08% |
+
+### 🏆 Selected Model
+
+**Decision Tree Classifier** was selected for deployment in the Streamlit
+web application.
+
+The Decision Tree and KNN models achieved the highest accuracy of
+**72.08%** among the tested models. The Decision Tree was selected as
+the final deployed model for this project.
+---
+
 ## 📊 Dataset
 
 The project uses the **Pima Indians Diabetes Dataset**.
