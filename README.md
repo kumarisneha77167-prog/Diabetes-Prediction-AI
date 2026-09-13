@@ -1,8 +1,8 @@
-# 🩺 Diabetes Prediction using Machine Learning
+# 🩺 Diabetes Prediction using AI
 
 ## 📌 Project Overview
 
-Diabetes Prediction using Machine Learning is an Artificial Intelligence project
+Diabetes Prediction using AI is an Artificial Intelligence project
 that predicts the likelihood of diabetes based on patient health information.
 
 The project uses a **Decision Tree Classifier** trained on the
